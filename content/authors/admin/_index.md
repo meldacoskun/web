@@ -30,17 +30,14 @@ skills:
     icon: r
     icon_pack: fab
     name: R
-    percent: 80
   - description: ""
     icon: chart-line
     icon_pack: fas
     name: Data Science
-    percent: 100
   - description: ""
     icon: database
     icon_pack: fas
     name: SQL
-    percent: 40
   name: Technical
 - color: '#eeac02'
   color_border: '#f0bf23'
@@ -49,17 +46,14 @@ skills:
     icon: person-dancing
     icon_pack: fas
     name: flamenco
-    percent: 100
   - description: ""
     icon: cat
     icon_pack: fas
     name: Cats
-    percent: 100
   - description: ""
     icon: camera-retro
     icon_pack: fas
     name: Photography
-    percent: 80
   name: Hobbies
 social:
 - icon: envelope
@@ -67,9 +61,9 @@ social:
   link: /#contact
 - display:
     header: true
-  icon: twitter
+  icon: instagram
   icon_pack: fab
-  label: Follow me on Twitter
+  label: Follow me on Instagram
   link: https://instagram.com/melontrack
 - icon: github
   icon_pack: fab
@@ -77,14 +71,22 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/meldacoskunphd/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-5337-4303
 - icon: cv
   icon_pack: ai
   link: uploads/meldacoskun_resume.pdf
 status:
   icon: ☕️
 superuser: true
-title: 吳健雄
+title: Melda Coskun
 ---
 
-With over 8 years of experience spanning industry and academia, my passion lies in uncovering patterns across diverse data sets. I specialize in analyzing complex data types including language data, neurosignals, eye movements, and human behavior data. Proficient in R and Python, I excel in transforming data into actionable insights through compelling analysis, visualization, and effective presentation to stakeholders with diverse backgrounds.
-{style="text-align: justify;"}
+With over 8 years of experience spanning industry and academia, my passion lies in uncovering patterns across diverse data sets. I specialize in analyzing complex data types including language data, neurosignals, eye movements, and human behavior data. Proficient in R and Python, I excel in transforming data into actionable insights through compelling analysis, visualization, and effective presentation to stakeholders with diverse backgrounds. {style="text-align: justify;"}
+
+<center>
+
+#### <i class="fa fa-download" aria-hidden="true" style="color:#035AA6"></i> {{< staticref "uploads/meldacoskun_resume.pdf" "newtab" >}}Download my CV{{< /staticref >}}
+
+</center>
