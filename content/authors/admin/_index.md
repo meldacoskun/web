@@ -50,7 +50,6 @@ status:
   icon: ☕️
 superuser: true
 title: Melda Coskun
-bio: My research interests revolve around two key areas: data science and quantitative user experience research (UXR). 
 ---
 
 With over 8 years of experience spanning industry and academia, my passion lies in uncovering patterns across diverse data sets. I specialize in analyzing complex data types including language data, neurosignals, eye movements, and human behavior data. I'm skilled at transforming data into actionable insights through thorough analysis, clear visualization, and compelling presentations. I have experience tailoring these to stakeholders with diverse backgrounds, helping improve data-driven decision-making using <i class="fab fa-r-project" aria-hidden="true" style="color:#035AA6"></i>.
