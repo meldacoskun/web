@@ -24,37 +24,6 @@ organizations:
 - name: McMaster University
   url: https://www.mcmaster.ca/
 role: Quantitative User Experience Researcher 
-skills:
-- items:
-  - description: ""
-    icon: r
-    icon_pack: fab
-    name: R
-  - description: ""
-    icon: chart-line
-    icon_pack: fas
-    name: Data Science
-  - description: ""
-    icon: database
-    icon_pack: fas
-    name: SQL
-  name: Technical
-- color: '#eeac02'
-  color_border: '#f0bf23'
-  items:
-  - description: ""
-    icon: person-dancing
-    icon_pack: fas
-    name: flamenco
-  - description: ""
-    icon: cat
-    icon_pack: fas
-    name: Cats
-  - description: ""
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
-  name: Hobbies
 social:
 - icon: envelope
   icon_pack: fas
@@ -90,5 +59,4 @@ When I'm not coding or analyzing data in front of the computer, I'm always on th
 <center>
 
 #### <i class="fa fa-download" aria-hidden="true" style="color:#035AA6"></i> {{< staticref "uploads/meldacoskun_resume.pdf" "newtab" >}}Download my CV{{< /staticref >}}
-tags: ["Electronics", "Diodes"]
 </center>
