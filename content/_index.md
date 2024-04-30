@@ -42,7 +42,6 @@ sections:
     username: admin
   id: about
 - block: skills
-  active:false
   content:
     text: ""
     title: Skills
@@ -50,7 +49,6 @@ sections:
   design:
     columns: "1"
 - block: experience
-  active:false
   content:
     date_format: Jan 2006
     items:
@@ -79,7 +77,6 @@ sections:
   design:
     columns: "2"
 - block: accomplishments
-  active:false
   content:
     date_format: Jan 2006
     items:
@@ -115,7 +112,6 @@ sections:
   design:
     columns: "2"
 - block: collection
-  active:false
   content:
     count: 5
     filters:
@@ -138,7 +134,6 @@ sections:
     view: compact
   id: posts
 - block: portfolio
-  active:false
   content:
     buttons:
     - name: All
@@ -158,7 +153,6 @@ sections:
     view: showcase
   id: projects
 - block: markdown
-  active:false
   content:
     subtitle: ""
     text: '{{< gallery album="demo" >}}'
@@ -166,7 +160,6 @@ sections:
   design:
     columns: "1"
 - block: collection
-  active:false
   content:
     filters:
       featured_only: true
@@ -178,7 +171,6 @@ sections:
     view: card
   id: featured
 - block: collection
-  active:false
   content:
     filters:
       exclude_featured: true
@@ -193,7 +185,6 @@ sections:
     columns: "2"
     view: citation
 - block: collection
-  active:false
   content:
     filters:
       folders:
@@ -209,7 +200,6 @@ sections:
   design:
     columns: "2"
 - block: contact
-  active:false
   content:
     address:
       city: Stanford
@@ -221,9 +211,9 @@ sections:
     appointment_url: https://calendly.com
     autolink: true
     contact_links:
-    - icon: linkedin
+    - icon: twitter
       icon_pack: fab
-      link: https://www.linkedin.com/in/meldacoskunphd/
+      link: https://twitter.com/Twitter
       name: DM Me
     - icon: skype
       icon_pack: fab
