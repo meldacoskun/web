@@ -1,5 +1,6 @@
 [build]
 command = 'hugo'
+command = 'CI= npm run build'
 publish = 'public'
 
 [build.environment]
