@@ -19,7 +19,7 @@ interests:
 - User Experience Research
 - Language
 last_name: Coskun
-name_pronunciation: /meldɑ ʤoʃkun/  
+name_pronunciation: /meldɑ/ /ʤoʃkun/  
 organizations:
 - name: McMaster University
   url: https://www.mcmaster.ca/
@@ -83,7 +83,13 @@ superuser: true
 title: Melda Coskun
 ---
 
-With over 8 years of experience spanning industry and academia, my passion lies in uncovering patterns across diverse data sets. I specialize in analyzing complex data types including language data, neurosignals, eye movements, and human behavior data. Proficient in R and Python, I excel in transforming data into actionable insights through compelling analysis, visualization, and effective presentation to stakeholders with diverse backgrounds. {style="text-align: justify;"}
+With over 8 years of experience spanning industry and academia, my passion lies in uncovering patterns across diverse data sets. I specialize in analyzing complex data types including language data, neurosignals, eye movements, and human behavior data. I'm skilled at transforming data into actionable insights through thorough analysis, clear visualization, and compelling presentations. I have experience tailoring these to stakeholders with diverse backgrounds, helping improve data-driven decision-making using
+
+```         
+<i class="fab fa-r-project" aria-hidden="true" style="color:#035AA6"></i>
+```
+
+When I'm not coding or analyzing data in front of the computer, I'm always on the move. I'm a professional flamenco dancer and a dedicated yogini.
 
 <center>
 
