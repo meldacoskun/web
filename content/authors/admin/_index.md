@@ -2,34 +2,33 @@
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
 education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - PhD in Cognitive Science of Language
+    institution: McMaster University, Canada
+    year: 2022
+  - course: MSc in Cognitive Science
+    institution: Middle East Technical University (METU), Turkey
+    year: 2014
+  - course: BSc in Computer Education and Information Tech
+    institution: Baskent University, Turkey
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-first_name: Shiung Wu
+first_name: Melda
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Chien
-name_pronunciation: Chien Shiung Wu
+- Data Science
+- User Experience Research
+- Language
+last_name: Coskun
+name_pronunciation: /meldɑ ʤoʃkun/  
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: McMaster University
+  url: https://www.mcmaster.ca/
+role: Quantitative User Experience Researcher 
 skills:
 - items:
   - description: ""
-    icon: python
+    icon: r
     icon_pack: fab
-    name: Python
+    name: R
     percent: 80
   - description: ""
     icon: chart-line
@@ -46,10 +45,10 @@ skills:
   color_border: '#f0bf23'
   items:
   - description: ""
-    icon: person-hiking
+    icon: person-dancing
     icon_pack: fas
-    name: Hiking
-    percent: 60
+    name: flamenco
+    percent: 100
   - description: ""
     icon: cat
     icon_pack: fas
@@ -70,24 +69,21 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://instagram.com/melontrack
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/meldacoskun
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/meldacoskunphd/
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: uploads/meldacoskun_resume.pdf
 status:
   icon: ☕️
 superuser: true
 title: 吳健雄
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+With over 8 years of experience spanning industry and academia, my passion lies in uncovering patterns across diverse data sets. I specialize in analyzing complex data types including language data, neurosignals, eye movements, and human behavior data. Proficient in R and Python, I excel in transforming data into actionable insights through compelling analysis, visualization, and effective presentation to stakeholders with diverse backgrounds.
 {style="text-align: justify;"}
