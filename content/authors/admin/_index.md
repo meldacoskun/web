@@ -2,7 +2,7 @@
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
 education:
-  - PhD in Cognitive Science of Language
+  - course: PhD in Cognitive Science of Language
     institution: McMaster University, Canada
     year: 2022
   - course: MSc in Cognitive Science
