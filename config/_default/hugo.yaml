@@ -48,6 +48,10 @@ taxonomies:
   author: authors
 markup:
   _merge: deep
+  #added after the error message: Allow goldmark to render raw HTML by adding this setting to config/_default/hugo.yaml (see https://github.com/rstudio/blogdown/issues/447 for more info):
+  goldmark:
+    renderer:
+      unsafe: true
 related:
   threshold: 80
   includeNewer: true
