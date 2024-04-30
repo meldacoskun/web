@@ -43,18 +43,10 @@ sections:
   id: about
 - block: skills
   content:
-    text: ""
+    text: "* Regression, Classification, Clustering, PCA, Random Forest, Neural Network, Bayesian statistics, Generalized Linear Models, A/B testing, Big datasets, Hypothesis Testing
+          * R (e.g., ggplot2), SQL, Tableau"
     title: Skills
     username: admin
-  design:
-    columns: "1"
-- block: skills
-  content:
-    username: admin
-    items:
-    text: * Regression, Classification, Clustering, PCA, Random Forest, Neural Network, Bayesian statistics, Generalized Linear Models, A/B testing, Big datasets, Hypothesis Testing
-          * R (e.g., ggplot2), SQL, Tableau.
-    title: Skills
   design:
     columns: "2"
 # - block: accomplishments
@@ -226,6 +218,6 @@ sections:
 #   design:
 #     columns: "2"
 #   id: contact
-# title: ""
-# type: landing
+title: ""
+type: landing
 ---
