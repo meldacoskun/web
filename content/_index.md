@@ -38,7 +38,7 @@ sections:
       text_color_light: true
 - block: about.biography
   content:
-    title: Biography
+    title: Hi there! Welcome. <i class="fas fa-heart" style="color:#0074D9"></i>
     username: admin
   id: about
 - block: skills
