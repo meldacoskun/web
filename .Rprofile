@@ -17,7 +17,8 @@ options(
   blogdown.knit.on_save = TRUE,
   # build .Rmd to .md; to build to .html (via Pandoc), set this option to 'html'
   blogdown.method = 'markdown',
-  blogdown.hugo.version = "0.110.0"
+  blogdown.hugo.version = "0.110.0",
+  blogdown.author = "Melda Coskun"
 )
 
 # fix Hugo version
