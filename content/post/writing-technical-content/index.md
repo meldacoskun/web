@@ -2,7 +2,7 @@
 date: "2019-07-12"
 image:
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
-  placement: 2
+  placement: 1
 math: true
 title: Writing technical content in Markdown
 ---
