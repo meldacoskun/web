@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: I'm a data scientist who loves delving deep into data to uncover meaningful patterns, enabling data-driven decision-making.
 education:
   courses:
   - course: PhD in Cognitive Science of Language
@@ -15,9 +14,10 @@ education:
 first_name: Melda
 highlight_name: true
 interests:
-- Data Science
+- Data Analysis
 - User Experience Research
-- Language
+- Data Visualization
+- Knowledge Sharing
 last_name: Coskun
 name_pronunciation: /meldɑ/ /ʤoʃkun/  
 organizations:
@@ -51,7 +51,7 @@ status:
 superuser: true
 title: Melda Coskun
 ---
-I am a data scientist, cognitive scientist, and user experience researcher. In my current role as the quantitative UX researcher at McMaster University in collaboration with CBC/Radio-Canada, I lead and conduct research to improve closed caption presentation in children's programming using eye-tracking and remote testing.
+Welcome. I'm glad that you're here <i class="fas fa-heart" style="color:#0074D9"></i>. I am a PhD data scientist, cognitive scientist, and user experience researcher. In my current role as the quantitative UX researcher at McMaster University in collaboration with CBC/Radio-Canada, I lead and conduct research to improve closed caption presentation in children's programming using eye-tracking and remote testing methods.
 
 With over 8 years of experience spanning industry and academia, my passion lies in uncovering patterns across diverse data sets. I specialize in analyzing complex data types including language data, neurosignals, eye movements, and human behavior data. I'm skilled at transforming data into actionable insights through thorough analysis, clear visualization, and compelling presentations. I have experience tailoring these to stakeholders with diverse backgrounds, helping improve data-driven decision-making using <i class="fab fa-r-project" aria-hidden="true" style="color:#035AA6"></i>.
 
