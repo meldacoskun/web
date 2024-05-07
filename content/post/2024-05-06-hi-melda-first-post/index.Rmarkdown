@@ -9,11 +9,11 @@ subtitle: 'Quantitative User Experience Researcher'
 summary: ''
 authors: [Melda Coskun]
 lastmod: '2024-05-06T16:37:10-04:00'
-featured: no
+featured: false
 image:
-  caption: ''
+  caption: '[](imgs/factors.png)'
   focal_point: ''
-  preview_only: no
+  preview_only: false
 projects: []
 ---
 
