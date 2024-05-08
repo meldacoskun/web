@@ -12,9 +12,9 @@ summary: '
 - I used attitudinal and behavioral research techniques like eye-tracking and A/B testing to enhance the viewing and reading experience of the viewers of CBC Kids.'
 authors: [Melda Coskun]
 lastmod: '2024-05-06T16:37:10-04:00'
-featured: no
+featured: yes
 image:
-  caption: ''
+  caption: 'fdfdfdfd'
   focal_point: ''
   src: 'imgs/logo.png'
 projects: []
