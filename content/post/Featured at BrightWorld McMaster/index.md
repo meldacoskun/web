@@ -16,7 +16,7 @@ tags:
 - in-person test
 - remote-test
 - kids
-subtitle: 
+subtitle: []
 summary: '
 - I am incredibly grateful to McMaster University for the opportunity to be interviewed and for featuring our study on Brighter World! It's an honor to have our work shared by such a respected institution in the field. 🤟'
 authors: [Melda Coskun]

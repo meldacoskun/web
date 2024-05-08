@@ -52,7 +52,7 @@ superuser: true
 title: Melda Coskun
 ---
 
-Welcome <i class="fas fa-hand-wave" style="color:#0074D9"></i> I'm glad that you're here <i class="fas fa-heart" style="color:#0074D9"></i>. I am a PhD data scientist, cognitive scientist, and user experience researcher. In my current role as the quantitative UX researcher at McMaster University in collaboration with CBC/Radio-Canada, I lead and conduct research to improve closed caption presentation in children's programming using eye-tracking and remote testing methods.
+Welcome 👋 I'm glad that you're here <i class="fas fa-heart" style="color:#0074D9"></i>. I am a PhD data scientist, cognitive scientist, and user experience researcher. In my current role as the quantitative UX researcher at McMaster University in collaboration with CBC/Radio-Canada, I lead and conduct research to improve closed caption presentation in children's programming using eye-tracking and remote testing methods.
 
 I have over 8 years of experience across industry and academia, and I'm passionate about transforming various data types---like language data, neurosignals, eye movements, and human behavior data---into actionable insights through meticulous analysis, clear visualization, and compelling presentations, help stakeholders make data-driven decisions <i class="fab fa-r-project" aria-hidden="true" style="color:#035AA6"></i>.
 
