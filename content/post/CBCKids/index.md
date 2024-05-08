@@ -16,25 +16,10 @@ featured: no
 image:
   caption: ''
   focal_point: ''
-  src: '![](imgs/logo.png)'
+  src: 'imgs/logo.png'
 projects: []
 ---
 
-```{r}
-summary(Orange)
-```
-
-```{r echo=FALSE}
-library(ggplot2)
-oplot <- ggplot(Orange, aes(x = age, 
-                   y = circumference, 
-                   colour = Tree)) +
-  geom_point() +
-  geom_line() +
-  guides(colour = FALSE) +
-  theme_bw()
-oplot
-```
 
 # Overview
 
