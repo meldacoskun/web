@@ -1,5 +1,5 @@
 ---
-title: Hi Melda, First Post
+title: A UX Research Journey with CBC Kids
 author: Melda Coskun
 date: '2024-05-06'
 slug: hi-melda-first-post
@@ -13,14 +13,10 @@ summary: '
 authors: [Melda Coskun]
 lastmod: '2024-05-06T16:37:10-04:00'
 featured: yes
-image:
-  caption: 'fdfdfdfd'
-  focal_point: ''
-  src: 'imgs/logo.png'
+image: imgs/logo.png
   placement: 1
 projects: []
 ---
-
 
 # Overview
 
