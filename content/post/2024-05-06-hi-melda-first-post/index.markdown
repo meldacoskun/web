@@ -6,15 +6,11 @@ slug: hi-melda-first-post
 categories: [UXR]
 tags: [attitudinal research, behavioral research, eye-tracking, Survey, A/B testing, in-person test, remote-test]
 subtitle: 'Quantitative User Experience Researcher'
-summary: 'As a Primary Quantitative User Experience Researcher (UXR), I took charge of critical aspects within research projects:
+summary: 'As a Primary Quantitative User Experience Researcher (UXR), I took charge of critical aspects within research projects, involved entire project, oversee the timeline, and make sure the milestones reached, expectations are meet..
 
-- Successfully submitted and obtained approval for REB applications.
-- Conducted competitive and secondary research, analyzing scientific literature to identify industry trends and key areas for enhancing closed caption presentations.
-- Implemented eye tracking and online surveys, as well as test materials, to gather comprehensive data.
-- Led a team of 2 Research Assistants, providing training and overseeing the recruitment of 67 children for in-person and online testing.
-- Developed efficient R code for analyzing survey responses and eye movement data, resulting in actionable insights.
-- Transformed raw data from eye-tracking tests and online user surveys into visually insightful representations using ggplot2 and Tableau, facilitating the identification of hidden patterns and insights.
-- Delivered over 20 reports and presentations that distilled complex topics like literature findings and research results into easily understandable and concise formats for senior leadership. This ensured their efficient understanding of key insights and kept them up to date with the latest information.'
+I used attitudinal and behavioral research techniques like eye-tracking and A/B testing to enhance the viewing and reading experience of young viewers with diverse needs in CBC's children's programming through improved closed captions.
+
+Tools: R, Eye-Tracker, Lime Survey'
 authors: [Melda Coskun]
 lastmod: '2024-05-06T16:37:10-04:00'
 featured: no
@@ -22,7 +18,7 @@ image:
   caption: ''
   focal_point: ''
   preview_only: no
-  src: ![](imgs/logo.png)
+  src: imgs/logo.png
 projects: []
 ---
 
