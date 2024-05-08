@@ -58,10 +58,14 @@ sections:
     order: desc
     subtitle: ""
     text: ""
-    title: Recent Posts
+    title: Projects
   design:
-    columns: "2"
-    view: compact
+    columns: "1"
+    flip_alt_rows: false
+    view: showcase
+  # design:
+  #   columns: "2"
+  #   view: compact
   id: posts
 - block: skills
   content:

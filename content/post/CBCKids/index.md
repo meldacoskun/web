@@ -3,8 +3,19 @@ title: A UX Research Journey with CBC Kids
 author: Melda Coskun
 date: '2024-05-06'
 slug: hi-melda-first-post
-categories: [UXR]
-tags: [attitudinal research, behavioral research, eye-tracking, Survey, A/B testing, in-person test, remote-test]
+categories: 
+- UXR
+- Eye-tracking
+- A/B testing
+- Behavioral Research
+tags: 
+- attitudinal research
+- behavioral research
+- eye-tracking
+- Survey
+- A/B testing
+- in-person test
+- remote-test
 subtitle: 'Optimizing Closed Captions for Better User Experience'
 summary: '
 - In my role as the Primary Quantitative User Experience Researcher (UXR), I was responsible for managing the entire project lifecycle, overseeing timelines, and ensuring milestones were met while meeting the expectations of stakeholders. 
@@ -15,7 +26,7 @@ lastmod: '2024-05-06T16:37:10-04:00'
 featured: yes
 projects: []
 image:
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
+  caption: ''
   placement: 1
 ---
 
