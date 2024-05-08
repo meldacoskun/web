@@ -20,13 +20,29 @@ image:
 projects: []
 ---
 
+```{r}
+summary(Orange)
+```
+
+```{r echo=FALSE}
+library(ggplot2)
+oplot <- ggplot(Orange, aes(x = age, 
+                   y = circumference, 
+                   colour = Tree)) +
+  geom_point() +
+  geom_line() +
+  guides(colour = FALSE) +
+  theme_bw()
+oplot
+```
+
 # Overview
 
-The journey of becoming skilled readers can be one of the toughest challenges for children. However, something they thoroughly enjoy, without any struggle, is spending countless hours engaging online. Closed captions in these videos can be a game-changer in this learning adventure. By making captions more effective, we can transform screen time into a more enriching reading experience for kids. This can significantly immprove their reading skills, word recognition, comprehension, and overall enjoyment of content, as research suggests. These captions are especially crucial for children with hearing impairments, limited reading abilities, or those who speak a different language from the content.
+a The journey of becoming skilled readers can be one of the toughest challenges for children. However, something they thoroughly enjoy, without any struggle, is spending countless hours engaging online. Closed captions in these videos can be a game-changer in this learning adventure. By making captions more effective, we can transform screen time into a more enriching reading experience for kids. This can significantly immprove their reading skills, word recognition, comprehension, and overall enjoyment of content, as research suggests. These captions are especially crucial for children with hearing impairments, limited reading abilities, or those who speak a different language from the content.
 
 With a diverse range of content, CBC Kids has attracted a massive following of Canadian children and youth, with an average of two million monthly visits across their digital platforms[^1].
 
-[^1]: <https://cbc.radio-canada.ca/en/your-public-broadcaster/blog/cbc-kids-news-helping-kids-safer-savvier-online>
+[^1]: <https://cbc.radio-canada.ca/en/your-public-broadcaster/blog/cbc-kids-news-helping-kids-safer-savvier-online>).
 
 ## Research Goals
 
