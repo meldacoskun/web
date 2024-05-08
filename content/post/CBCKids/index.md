@@ -17,13 +17,14 @@ image:
   caption: 'fdfdfdfd'
   focal_point: ''
   src: 'imgs/logo.png'
+  placement: 1
 projects: []
 ---
 
 
 # Overview
 
-a The journey of becoming skilled readers can be one of the toughest challenges for children. However, something they thoroughly enjoy, without any struggle, is spending countless hours engaging online. Closed captions in these videos can be a game-changer in this learning adventure. By making captions more effective, we can transform screen time into a more enriching reading experience for kids. This can significantly immprove their reading skills, word recognition, comprehension, and overall enjoyment of content, as research suggests. These captions are especially crucial for children with hearing impairments, limited reading abilities, or those who speak a different language from the content.
+The journey of becoming skilled readers can be one of the toughest challenges for children. However, something they thoroughly enjoy, without any struggle, is spending countless hours engaging online. Closed captions in these videos can be a game-changer in this learning adventure. By making captions more effective, we can transform screen time into a more enriching reading experience for kids. This can significantly immprove their reading skills, word recognition, comprehension, and overall enjoyment of content, as research suggests. These captions are especially crucial for children with hearing impairments, limited reading abilities, or those who speak a different language from the content.
 
 With a diverse range of content, CBC Kids has attracted a massive following of Canadian children and youth, with an average of two million monthly visits across their digital platforms[^1].
 
