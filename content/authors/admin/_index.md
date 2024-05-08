@@ -51,11 +51,12 @@ status:
 superuser: true
 title: Melda Coskun
 ---
-Welcome \U0001F44B I'm glad that you're here <i class="fas fa-heart" style="color:#0074D9"></i>. I am a PhD data scientist, cognitive scientist, and user experience researcher. In my current role as the quantitative UX researcher at McMaster University in collaboration with CBC/Radio-Canada, I lead and conduct research to improve closed caption presentation in children's programming using eye-tracking and remote testing methods.
 
-With over 8 years of experience spanning industry and academia, my passion lies in uncovering patterns across diverse data sets. I specialize in analyzing complex data types including language data, neurosignals, eye movements, and human behavior data. I'm skilled at transforming data into actionable insights through thorough analysis, clear visualization, and compelling presentations. I have experience tailoring these to stakeholders with diverse backgrounds, helping improve data-driven decision-making using <i class="fab fa-r-project" aria-hidden="true" style="color:#035AA6"></i>.
+Welcome <i class="fas fa-hand-wave" style="color:#0074D9"></i> I'm glad that you're here <i class="fas fa-heart" style="color:#0074D9"></i>. I am a PhD data scientist, cognitive scientist, and user experience researcher. In my current role as the quantitative UX researcher at McMaster University in collaboration with CBC/Radio-Canada, I lead and conduct research to improve closed caption presentation in children's programming using eye-tracking and remote testing methods.
 
-When I'm not coding or analyzing data in front of the computer, I'm always on the move. I'm a professional flamenco dancer and a dedicated yogini.
+I have over 8 years of experience across industry and academia, and I'm passionate about transforming various data types---like language data, neurosignals, eye movements, and human behavior data---into actionable insights through meticulous analysis, clear visualization, and compelling presentations, help stakeholders make data-driven decisions <i class="fab fa-r-project" aria-hidden="true" style="color:#035AA6"></i>.
+
+I'm a professional flamenco dancer and a dedicated yogini.
 
 <center>
 
