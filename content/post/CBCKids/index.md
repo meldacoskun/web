@@ -14,6 +14,9 @@ authors: [Melda Coskun]
 lastmod: '2024-05-06T16:37:10-04:00'
 featured: yes
 projects: []
+image:
+  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
+  placement: 1
 ---
 
 # Overview
