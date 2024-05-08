@@ -13,7 +13,6 @@ summary: '
 authors: [Melda Coskun]
 lastmod: '2024-05-06T16:37:10-04:00'
 featured: yes
-image: imgs/logo.png
 projects: []
 ---
 
