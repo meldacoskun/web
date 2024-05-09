@@ -18,6 +18,7 @@ interests:
 - User Experience Research
 - Data Visualization
 - Knowledge Sharing
+- Human Computer Interaction
 last_name: Coskun
 name_pronunciation: /meldɑ/ /ʤoʃkun/  
 organizations:
@@ -54,7 +55,9 @@ title: Melda Coskun
 
 Welcome 👋 I'm glad that you're here <i class="fas fa-heart" style="color:#0074D9"></i>.
 
-I am a PhD data scientist 📊💻, cognitive scientist 🧠, user experience researcher 👥🔍, a professional flamenco dancer 💃, and a dedicated yogini 🧘. In my current role as the quantitative UX researcher at McMaster University in collaboration with CBC/Radio-Canada, I lead and conduct research to improve closed caption presentation in children's programming using eye-tracking and remote testing methods.
+I am a PhD data scientist 📊💻, cognitive scientist 🧠, user experience researcher 👥🔍, a professional flamenco dancer 💃, and a dedicated yogini 🧘. 
+
+In my current role as the quantitative UX researcher at McMaster University in collaboration with CBC/Radio-Canada, I lead and conduct research to improve closed caption presentation in children's programming using eye-tracking and remote testing methods.
 
 I have over 8 years of experience across industry and academia, and I'm passionate about transforming diverse data types---like *language data, neurosignals, eye movements, and any other forms of data* ---into actionable insights I achieve this through meticulous analysis using <i class="fab fa-r-project" aria-hidden="true" style="color:#035AA6"></i>, clear visualization, and compelling presentations. My goal is to facilitate data-driven decisions that drive meaningful outcomes.
 

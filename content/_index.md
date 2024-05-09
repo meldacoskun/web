@@ -48,8 +48,8 @@ sections:
     buttons:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: UXR
+      tag: UXR
     - name: Other
       tag: Demo
     default_button_index: 0
