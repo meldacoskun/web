@@ -17,7 +17,7 @@ tags:
 - remote-test
 - kids
 summary: '
-- I am incredibly grateful to McMaster University for the opportunity to be interviewed and for featuring our study on Brighter World!🤟'
+I am incredibly grateful to McMaster University for the opportunity to be interviewed and for featuring our study on Brighter World!🤟'
 authors: [Melda Coskun]
 lastmod: '2024-05-06T16:37:10-04:00'
 featured: yes
