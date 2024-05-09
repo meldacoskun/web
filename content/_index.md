@@ -100,7 +100,7 @@ sections:
       tag: Deep Learning
     - name: Other
       tag: Demo
-  default_button_index: 0
+    default_button_index: 0
     filters:
       folders:
       - project
