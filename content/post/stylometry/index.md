@@ -1,6 +1,6 @@
 ---
 date: "2024-05-09"
-external_link: ""
+external_link: "https://scds.ca/a-stylo-way-of-textual-analysis/"
 image:
   caption: ""
   focal_point: Smart
@@ -8,7 +8,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/meldalife
 # slides: example
 summary: ""
 tags:

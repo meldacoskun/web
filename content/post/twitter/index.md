@@ -1,5 +1,5 @@
 ---
-abstract: This post explores the emergence of new words on Twitter from 2015 to 2017, focusing on English-speaking regions like Canada and the United States.
+abstract: "This project offers valuable insights into the ever-changing landscape of linguistic trends in digital communication"
 # address:
 #   city: Stanford
 #   country: United States
@@ -14,19 +14,19 @@ abstract: This post explores the emergence of new words on Twitter from 2015 to 
 event_url: https://scds.ca/the-new-words-of-english-a-computational-approach/
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ""
   focal_point: Right
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
   url: https://twitter.com/meldalife
-location: Hugo Blox Builder HQ
+location: ""
 projects:
-- example
-publishDate: "2017-01-01T00:00:00Z"
+- twitter
+publishDate: "2024-05-08"
 slides: example
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
+summary: ""
 tags: 
 - R
 - Computational Linguistics
