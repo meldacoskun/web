@@ -25,7 +25,8 @@ location: ""
 projects:
 - twitter
 publishDate: "2024-05-08"
-slides: example
+#slides: example
+external_link: "https://scds.ca/a-stylo-way-of-textual-analysis/"
 summary: ""
 tags: 
 - R

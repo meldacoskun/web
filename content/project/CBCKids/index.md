@@ -12,6 +12,7 @@ categories:
 - in-person test
 - remote-test
 tags: 
+- UXR
 - attitudinal research
 - behavioral research
 - eye-tracking

@@ -8,6 +8,7 @@ categories:
 - Eye-tracking
 - Behavioral Research
 tags: 
+- UXR
 - attitudinal research
 - behavioral research
 - eye-tracking

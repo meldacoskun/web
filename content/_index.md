@@ -41,6 +41,28 @@ sections:
     title: Hi there! 
     username: admin
   id: about
+
+
+- block: portfolio
+  content:
+    buttons:
+    - name: All
+      tag: '*'
+    - name: Deep Learning
+      tag: Deep Learning
+    - name: Other
+      tag: Demo
+    default_button_index: 0
+    filters:
+      folders:
+      - project
+    title: Projects
+  design:
+    columns: "1"
+    flip_alt_rows: false
+    view: showcase
+  id: projects
+  
 - block: collection
   content:
     count: 5
@@ -90,27 +112,6 @@ sections:
 #   id: projects
 
 
-
-- block: portfolio
-  content:
-    buttons:
-    - name: All
-      tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
-    default_button_index: 0
-    filters:
-      folders:
-      - project
-    title: Projects
-  design:
-    columns: "1"
-    flip_alt_rows: false
-    view: showcase
-  id: projects
-  
 - block: skills
   content:
     text: "* Regression, Classification, Clustering, PCA, Random Forest, Neural Network, Bayesian statistics, Generalized Linear Models, A/B testing, Big datasets, Hypothesis Testing
@@ -118,7 +119,7 @@ sections:
     title: Skills
     username: admin
   design:
-    columns: "2"
+    columns: "1"
     view: citation
 # - block: accomplishments
 #   content:
