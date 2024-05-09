@@ -1,21 +1,21 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: "2024-05-09"
 external_link: ""
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ""
   focal_point: Smart
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
   url: https://twitter.com/georgecushen
-slides: example
-summary: Exploring Stylometry with the 'stylo' R Package.
+# slides: example
+summary: ""
 tags:
 - R
 - Stylometry
 - Computational Linguistics
-title: Example Project
+title: Exploring Stylometry with the 'stylo' R Package.
 url_code: "https://scds.ca/a-stylo-way-of-textual-analysis/"
 url_pdf: ""
 url_slides: ""
