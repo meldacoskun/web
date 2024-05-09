@@ -58,15 +58,16 @@ sections:
     order: desc
     subtitle: ""
     text: ""
-    title: Projects
+    title: Posts
   design:
-    columns: "1"
-    flip_alt_rows: false
-    view: showcase
+    columns: "2"
+  # flip_alt_rows: false
+  # view: showcase
+    view: compact
   # design:
   #   columns: "2"
   #   view: compact
-  id: posts
+  id: projects
 - block: skills
   content:
     text: "* Regression, Classification, Clustering, PCA, Random Forest, Neural Network, Bayesian statistics, Generalized Linear Models, A/B testing, Big datasets, Hypothesis Testing
@@ -75,6 +76,7 @@ sections:
     username: admin
   design:
     columns: "2"
+    view: citation
 # - block: accomplishments
 #   content:
 #     date_format: Jan 2006
